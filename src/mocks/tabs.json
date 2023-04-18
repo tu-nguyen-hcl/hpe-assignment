@@ -1,0 +1,154 @@
+[
+  {
+    "label": "Virtual",
+    "content": {
+      "image": {
+        "url": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig",
+        "thumbnail": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig"
+      },
+      "title": "Virtual Engagements",
+      "url": "",
+      "descriptions": [
+        "The Virtual Customer Innovation Center gives you a front row seat to curated experiences, engaging demonstrations, and immersive content - all within one digital environment.",
+        "Here you'll experience how clients are accelerating transformation in Digital Game Changers, virtually explore products in 3D in the Demo Playground, learn about solutions advancing key industry-specific opportunities, and more.",
+        "Contact your HPE Account Representative to request your engagement."
+      ],
+      "redirect": {
+        "text": "Take a Virtual Tour",
+        "url": "https://www.hpe.com/us/en/about/virtual-customer-innovation-center.html"
+      }
+    }
+  },
+  {
+    "label": "Silicon Valley",
+    "content": {
+      "image": {
+        "url": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig",
+        "thumbnail": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig"
+      },
+      "title": "Silicon Valley",
+      "url": "",
+      "descriptions": [
+        "Located in the heart of Silicon Valley and the birthplace of HPE, innovation at the edge comes to life as you experience HPE edge-to-cloud strategy, technical expertise, and real-world use cases to advance your outcomes."
+      ],
+      "redirect": {
+        "text": "Learn more",
+        "url": "https://www.hpe.com/us/en/about/virtual-customer-innovation-center.html"
+      }
+    }
+  },
+  {
+    "label": "Houston",
+    "content": {
+      "image": {
+        "url": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig",
+        "thumbnail": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig"
+      },
+      "title": "Houston",
+      "url": "",
+      "descriptions": [
+        "Located at HPE global headquarters, you’ll experience how HPE brings a unified cloud experience to apps and data everywhere in various use cases and industry-specific content.",
+        "Engage in Virtual Reality experiences, deep dive into HPE GreenLake Lighthouse stacks, immerse yourself in industry-specific content in the Live Oak Theater, and more."
+      ],
+      "redirect": {
+        "text": "Learn more",
+        "url": "https://www.hpe.com/us/en/about/virtual-customer-innovation-center.html"
+      }
+    }
+  },
+  {
+    "label": "New York",
+    "content": {
+      "image": {
+        "url": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig",
+        "thumbnail": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig"
+      },
+      "title": "New York",
+      "url": "",
+      "descriptions": [
+        "Accelerate your edge-to-cloud strategies by collaborating with global subject matter experts, exploring virtual and in-person demonstrations, and engaging with customized content.",
+        "Located just blocks from Grand Central Station, the New York Customer Innovation Center enables your exploration into what’s next for your enterprise."
+      ],
+      "redirect": {
+        "text": "Learn more",
+        "url": "https://www.hpe.com/us/en/about/virtual-customer-innovation-center.html"
+      }
+    }
+  },
+  {
+    "label": "London",
+    "content": {
+      "image": {
+        "url": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig",
+        "thumbnail": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig"
+      },
+      "title": "London",
+      "url": "",
+      "descriptions": [
+        "Ignite your edge-to-cloud initiatives and learn how to accelerate outcomes with agility and data modernization at the London Customer Innovation Centre.",
+        " In your customized engagement, you’ll collaborate with HPE executive leadership, engage in tailored demonstrations, and explore the possibilities of what’s next for your enterprise."
+      ],
+      "redirect": {
+        "text": "Learn more",
+        "url": "https://www.hpe.com/us/en/about/virtual-customer-innovation-center.html"
+      }
+    }
+  },
+  {
+    "label": "Geneva",
+    "content": {
+      "image": {
+        "url": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig",
+        "thumbnail": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig"
+      },
+      "title": "Geneva",
+      "url": "",
+      "descriptions": [
+        "Ignite your edge-to-cloud initiatives and learn how to accelerate outcomes with agility and data modernization at the London Customer Innovation Centre.",
+        " In your customized engagement, you’ll collaborate with HPE executive leadership, engage in tailored demonstrations, and explore the possibilities of what’s next for your enterprise."
+      ],
+      "redirect": {
+        "text": "Learn more",
+        "url": "https://www.hpe.com/us/en/about/virtual-customer-innovation-center.html"
+      }
+    }
+  },
+  {
+    "label": "Dubai",
+    "content": {
+      "image": {
+        "url": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig",
+        "thumbnail": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig"
+      },
+      "title": "Dubai",
+      "url": "",
+      "descriptions": [
+        "Ignite your edge-to-cloud initiatives and learn how to accelerate outcomes with agility and data modernization at the London Customer Innovation Centre.",
+        " In your customized engagement, you’ll collaborate with HPE executive leadership, engage in tailored demonstrations, and explore the possibilities of what’s next for your enterprise."
+      ],
+      "redirect": {
+        "text": "Learn more",
+        "url": "https://www.hpe.com/us/en/about/virtual-customer-innovation-center.html"
+      }
+    }
+  },
+  {
+    "label": "Singapore",
+    "content": {
+      "image": {
+        "url": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig",
+        "thumbnail": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/generic-named/u-w/vCIC-Lobby-16-9.jpg.hpetransform/bounded-resize:width=568/image.orig"
+      },
+      "title": "Singapore",
+      "url": "",
+      "descriptions": [
+        "Ignite your edge-to-cloud initiatives and learn how to accelerate outcomes with agility and data modernization at the London Customer Innovation Centre.",
+        " In your customized engagement, you’ll collaborate with HPE executive leadership, engage in tailored demonstrations, and explore the possibilities of what’s next for your enterprise."
+      ],
+      "redirect": {
+        "text": "Learn more",
+        "url": "https://www.hpe.com/us/en/about/virtual-customer-innovation-center.html"
+      }
+    }
+  }
+]
